@@ -1,4 +1,4 @@
-# New note diagram
+# New note in single page app diagram
 
 ```mermaid
 sequenceDiagram
